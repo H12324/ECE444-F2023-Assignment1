@@ -12,6 +12,6 @@
 
 ![S6](S6Rebase.png)
 
-Realized I didn't do that the command correctly so to fix it did this
+Realized I didn't do the command correctly so to fix it did this
 
 ![S7](S7Rebase.png)
