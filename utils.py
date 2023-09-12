@@ -1,7 +1,7 @@
-class Utils;
+class Utils:
     def reveresed(num):
         if (isinstance(num, int)):
-            return int(str(num).reveresed())
+            return int(str(num)[::-1])
         else:
             return "Invalid Input"
 
